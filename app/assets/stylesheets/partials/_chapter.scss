@@ -1,5 +1,4 @@
 #chapter {
-
   .date {
     text-align: center;
   }
@@ -41,4 +40,14 @@
     padding: 15px;
     margin: 0 5px;
   }
+}
+
+.chapter-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.chapter-header-text {
+  padding-top: 1.42857rem;
 }
